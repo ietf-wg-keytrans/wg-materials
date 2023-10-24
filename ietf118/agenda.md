@@ -16,4 +16,8 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-### TBD
+### Presentations (40 mins)
+* Problem statement (Brendan McMillion) - 20 mins
+* [Architecture document](https://datatracker.ietf.org/doc/draft-mcmillion-keytrans-architecture/) (Brendan McMillion) - 20 mins
+
+### Discussion (balance of time)
