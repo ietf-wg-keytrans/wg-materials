@@ -16,8 +16,10 @@
 * Blue sheets / scribe selection / [NOTE WELL](https://www.ietf.org/about/note-well.html) 
 * Agenda revision
 
-### Presentations (50 mins)
+### Presentations (80 mins)
 * Problem statement (Brendan McMillion) - 20 mins
 * [Architecture document](https://datatracker.ietf.org/doc/draft-mcmillion-keytrans-architecture/) (Brendan McMillion) - 30 mins
+* Security Properties of Key Transparency (Esha Ghosh) - 15 mins
+* Privacy Properties of Key Transparency (Kevin Lewi) - 15 mins
 
-### Discussion (balance of time)
+### Discussion (30 mins)
