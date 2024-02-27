@@ -17,5 +17,5 @@
 * Agenda revision
 
 ### Presentations (80 mins)
-* [Architecture document](https://datatracker.ietf.org/doc/draft-ietf-keytrans-architecture/) (?) - ? mins
+* [Architecture document](https://datatracker.ietf.org/doc/draft-ietf-keytrans-architecture/) (Brendan McMillion)
 
